@@ -1,5 +1,3 @@
-Here’s the README file written in Markdown code format:
-
 # Saucedemo Selenium Testing Project
 
 This project automates testing for the Saucedemo website using Python and Selenium. The tests include login functionality, adding items to the cart, and proceeding to checkout.
